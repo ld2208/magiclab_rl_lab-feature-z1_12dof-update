@@ -21,7 +21,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/MagiclabRoboticsrobotics/magiclab_rl_lab.git
+git clone https://github.com/ld2208/magiclab_rl_lab-feature-z1_12dof-update.git
 cd magiclab_rl_lab
 
 # 激活环境
