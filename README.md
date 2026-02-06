@@ -7,6 +7,8 @@ MagicLab RL Lab (Isaac Lab)-UPDATE版
 
 目前支持的任务：
 Velocity Tracking: 基础行走与速度跟踪。
+
+
 Wiping Task: 擦玻璃任务（基于右腿末端轨迹跟踪）。
 
 
