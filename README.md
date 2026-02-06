@@ -16,15 +16,24 @@ Wiping Task: 擦玻璃任务（基于右腿末端轨迹跟踪）。
 
 
 🛠 Installation
+
+
 1. 环境依赖
 Isaac Lab: 请先按照 Isaac Lab 官方指南 完成安装。
 MagicDog SDK: 真机部署需要安装官方 Python SDK（参考 magicdog_sdk 文档）。
-2. 下载与安装本项目
+
+
+3. 下载与安装本项目
+
+4. 
 克隆仓库并将其安装为独立扩展包：
-code
-Bash
+
+
+
 # 克隆仓库
 git clone https://github.com/MagiclabRoboticsrobotics/magiclab_rl_lab.git
+
+
 cd magiclab_rl_lab
 
 # 激活 Isaac Lab 环境
