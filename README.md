@@ -4,8 +4,6 @@
 
 ## 📖 Overview
 本项目是基于 **NVIDIA Isaac Lab** 开发的强化学习环境扩展包，专为 **MagicLab Z1-12dof** 人形机器人定制。它利用 GPU 并行加速实现大规模仿真训练，并提供从仿真到真机（Sim-to-Real）的一键部署工具。
-
-
 目前支持的任务：
 *   **Velocity Tracking**: 基础行走与速度跟踪。
 *   **Wiping Task**: 擦玻璃任务（基于右腿末端轨迹跟踪）。
