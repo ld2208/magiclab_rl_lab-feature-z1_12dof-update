@@ -1,7 +1,7 @@
 
-由于之前的排版在截图显示中出现了格式混乱，我为你重新整理了最标准的 Markdown 格式。这个版本结构清晰，包含所有必要的代码块，你可以直接 COPY 到你的 README.md 文件中。
 
-MagicLab RL Lab (Isaac Lab)
+
+MagicLab RL Lab (Isaac Lab)-教學版
 📖 Overview
 
 本项目是基于 NVIDIA Isaac Lab 开发的强化学习环境扩展包，专为 MagicLab Z1-12dof 人形机器人定制。它利用 GPU 并行加速实现大规模仿真训练，并提供从仿真到真机（Sim-to-Real）的一键部署工具。
